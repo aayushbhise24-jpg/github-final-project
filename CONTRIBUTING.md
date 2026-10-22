@@ -3,8 +3,7 @@
 All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
-1. **Fork the repository** to your own GitHub account.
-2. **Clone** the repository to your local machine.
-3. **Create a new branch** for your feature or bug fix:
-   ```bash
-   git checkout -b feature-or-fix-name
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Commit your changes with clear messages.
+4. Push to your fork and submit a Pull Request.
